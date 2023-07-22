@@ -1,0 +1,1 @@
+print("Average is: ", (float(input("Enter a: "))+float(input("Enter b: ")))/2)

@@ -1,0 +1,1 @@
+print('a is greater') if (a:=int(input('Enter a: ')))>(b:=int(input('Enter b: '))) else print('b is greater')

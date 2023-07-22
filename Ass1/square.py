@@ -1,0 +1,1 @@
+print('Square :',(int(input('Number: ')))**2)
